@@ -2,7 +2,7 @@
   font-family: 'Shorif Jonota Unicode';
   font-style: normal;
   font-weight: 100;
-  src: url('font/ShorifJonotaUnicode.ttf') format('ttf');
+  src: url(font/ShorifJonotaUnicode.ttf) format('ttf');
 }
 nav {
   background-color: #14103b;
