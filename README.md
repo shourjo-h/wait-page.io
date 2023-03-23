@@ -1,2 +1,2 @@
 # wait-page
-wait page for paralel
+Initial homepage for parallel.li
