@@ -47,7 +47,6 @@ body {
   }
   .book {
     display: inline-block;
-    height: 450px;
     width: 200px;
     border-radius: 10px;
     margin: 10px;
