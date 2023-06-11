@@ -40,7 +40,7 @@ h1 {
 }
 .book {
   display: inline-block;
-  width: 170px;
+  width: 165px;
   border-radius: 10px;
   margin: 10px;
   text-align: center;
@@ -49,7 +49,6 @@ h1 {
   background-color: #fff;
   color: #333;
   transition: background-color 0.5s ease, color 0.5s ease;
-  /* font-size: x-small; */
 }
 .book.dark-mode {
   background-color: #333;
@@ -74,7 +73,7 @@ h1 {
   height: auto;
 }
 .book h2 {
-  font-size: .90em;
+  font-size: .85em;
   margin: 10px 0;
 }
 .book p {
